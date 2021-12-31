@@ -1,0 +1,40 @@
+{
+	"storyName": "IDk",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"chill",
+			"juay",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"snow-time",
+			"juay",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "week snow"
+}
